@@ -1,2 +1,2 @@
 # Pierwsze-kroki
-Learning some Python coding, starting from my very first "project"
+Learning some Python coding, starting from my very first "project" general synthax
