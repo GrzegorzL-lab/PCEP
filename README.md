@@ -1,3 +1,3 @@
 # Pierwsze-kroki
 Learning some Python coding, starting from my very first "project" 
-General synthax
+General synthax on a day to counter example
