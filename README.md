@@ -4,4 +4,4 @@ General synthax in a program: day to hours counter
 
 Aim is to obtain PCEP certification - Certified Entry-Level Python Programmer
 
-Took "Entry programming - Python" from Sekurak + "Practical Python - 10 projects" from Sekurak courses
+Took courses "Entry programming - Python" + "Practical Python - 10 projects" by Sekurak
